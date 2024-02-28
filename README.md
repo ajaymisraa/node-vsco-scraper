@@ -3,6 +3,8 @@ I made this in one and a half hours off of a redbull from 12:30 am to 2:00 am, p
 
 This was adapted by a python variant of a vsco scraper, https://github.com/mvabdi/vsco-scraper, I just made it in nodejs. I really only made this because my roommate told me I couldn't convert a 650 line python repository to javascript, a language that I hate and I am not the best at, before 3 a.m. This is living proof that it can kind of be done. Kind of. 
 
+My experience in this is that I used to code sneaker bots so I am good at web scraping // anti-bot systems like the ones on VSCO. Not with NodeJS though so took a little bit of an adjustment. 
+
 ## Usage 
 
 Really not that crazy. There are other usages like showing journals and collections but this is the main one that I cared about and that I could use for my website so it really only applied to be relevant. Other methods, like for journals, has functionality, though. 
