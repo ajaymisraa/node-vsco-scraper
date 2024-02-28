@@ -1,7 +1,7 @@
 # node-vsco-scraper
 I made this in one and a half hours off of a redbull from 12:30 am to 2:00 am, please excuse any flaws; it works as intended for now. As you can probably see in the jumbled code, there were ambitions that fell through. If you want, expand! It really isn't hard to. 
 
-This was adapted by a python variant of a vsco scraper, https://github.com/mvabdi/vsco-scraper, I just made it in nodejs. I really only made this because my roommate told me I couldn't convert a 650 line python repository to javascript, a language that I hate and I am not the best at, before 3 a.m. This is living proof that it can kind of be done. Kind of. 
+This was adapted by a python variant of a vsco scraper, https://github.com/mvabdi/vsco-scraper, I just made it in nodejs. I really only made this because my roommate told me I couldn't convert a 1000+ line python repository to javascript, a language that I hate and I am not the best at, before 3 a.m. This is living proof that it can kind of be done. Kind of. 
 
 My experience in this is that I used to code sneaker bots so I am good at web scraping // anti-bot systems like the ones on VSCO. Not with NodeJS though so took a little bit of an adjustment. 
 
